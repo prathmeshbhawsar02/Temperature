@@ -39,7 +39,7 @@ h1{
     font-size: 30px;
 }
 
-#celsius, #fahrenheit, #kelvin{
+#celcius, #fahrenheit, #kelvin{
     display: flex;
     justify-content: center;
     align-items: center;
